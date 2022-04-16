@@ -2,9 +2,9 @@
 
 # To clone and run the app
 clone the app
-in your editor, navigate to the pubspec.yaml file
-install all dependencies
-run the app
+1.in your editor, navigate to the pubspec.yaml file
+2.install all dependencies
+3.run the app
 
 
 
